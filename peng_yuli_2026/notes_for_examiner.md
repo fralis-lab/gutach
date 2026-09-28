@@ -74,3 +74,12 @@ Note: the dissertation outcome itself at KAUST is pass / pass with revisions / f
 Even shorter:
 
 > Hi Dominik, kurze Frage zu Yuli, ganz unter uns: A oder A-? Und wo steht sie im Vergleich zu euren anderen PhDs? Ich will sie weder über- noch unterbewerten. Danke!
+
+## 7. Final version (after Dominik's feedback)
+
+- Dominik agreed on A-. He confirmed that the LFAs were developed by the students themselves, with some support from the supervisory team on the conception of the projects.
+- `Gutachten_Peng_Yuli_KAUST.docx` is now written in your usual letter format (as in the Sarkar 2024 evaluation): header block, topic introduction, summary of the work in three numbered parts, publication list, one candid assessment paragraph, a paragraph on independence and collaborator contributions, the good-scientific-practice paragraph, closing recommendation with the grade "A-". The list of corrections is on a separate attachment page and can be deleted if the KAUST form has no place for it.
+- The neutral, sectioned first version is kept as `Gutachten_Peng_Yuli_KAUST_v1_neutral.docx`.
+- Two things to check before sending:
+  1. The sentence on the eight-co-author LFA protocol manuscript ("suggests that she established the lateral flow workflow in the laboratory and passed it on to others") is an inference from the author list. Confirm with Dominik or delete the half-sentence.
+  2. "I was asked by KAUST to evaluate this thesis" - adjust if the request came from Prof. Rueping personally, and put the TUHH letterhead and date on it.
