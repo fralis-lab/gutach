@@ -44,3 +44,33 @@ Short version:
 Even shorter:
 
 > Hi Dominik, sitze am Gutachten für Yuli. Ganz ehrlich und unter uns: Wo würdest du sie im Vergleich zu euren anderen PhDs einordnen, und wie selbstständig war sie? Zwei Sätze reichen mir. Danke!
+
+## 5. Rating on the compressed KAUST scale (A / A-)
+
+Given that KAUST examiners effectively use only A and A-, this thesis is an **A-**.
+
+Why not A:
+- no own binders (all nanobodies from the literature), no affinity/format engineering although affinity is the identified bottleneck;
+- sensitivity below commercial antibody tests for every assay except Zika; Delta variant not detected;
+- no clinical samples, no replicate/statistical LOD data;
+- the strongest chapter (Zika) is co-first-authored and its mechanistic part was done by collaborators;
+- a factual error (chikungunya as flavivirus) and about ten cross-reference/citation errors.
+
+Why not lower:
+- two first-author ACS Synthetic Biology papers, a review manuscript, one manuscript in prep, two protocol co-authorships;
+- coherent, well-structured thesis with candid reporting of failures;
+- one genuinely useful mechanistic finding (streptavidin loses biotin-binding capacity when coupled to carboxyl-AuNPs) and a transferable oriented-conjugation strategy.
+
+What "A" would have required: own nanobody discovery or engineering that improved sensitivity, at least one assay validated on patient samples, or a clearly higher-tier publication.
+
+Mapping to the report as written: "accept subject to minor revisions" with no superlatives is the A- report. To turn it into an A report: recommend acceptance without conditions, replace "conceptual novelty is moderate" with "the work is well conceived and carefully executed", add "excellent" to the productivity sentence, and move Section 5 into Section 4 as editorial corrections. To go below A-: see the "harder" levers in Section 3.
+
+Note: the dissertation outcome itself at KAUST is pass / pass with revisions / fail; letter grades apply to courses. If the examiner form asks for a rating of the written dissertation, use A- (or the "good/very good" box, not "excellent").
+
+## 6. WhatsApp to Dominik, calibrated to the A / A- culture
+
+> Hi Dominik, sitze gerade am Gutachten für Yuli. Mir wurde gesagt, bei euch an der KAUST gibt es de facto nur A und A-. Ganz ehrlich und unter uns: Wo siehst du sie? Und gibt es etwas, das man der Thesis nicht ansieht, z.B. dass sie das ganze LFA-Setup bei euch aufgebaut hat oder besonders selbstständig war? Das würde ich gern richtig einordnen. Zwei, drei Sätze reichen. Danke dir!
+
+Even shorter:
+
+> Hi Dominik, kurze Frage zu Yuli, ganz unter uns: A oder A-? Und wo steht sie im Vergleich zu euren anderen PhDs? Ich will sie weder über- noch unterbewerten. Danke!
